@@ -12,7 +12,7 @@ The project entitled “Insider threat detection using supervised machine learni
 
  The functionality of each python library is as follows: 
  
-                 1. Pandas : This library is used for reading the data from the dataset, so that further operations can be performed on it.
-                 2. Scikit-learn : This python library is used for feature extration from the dataset(Manual_dataset.csv).
-                 3. Mathplotlib or seaborn : This python library just for pictorial representation of the values gained. As the output of this software are numerical 
-                                             values (i.e. Accuracy percentage, Precision, f1 score) this python library helps in better understanding.
+   1. Pandas : This library is used for reading the data from the dataset, so that further operations can be performed on it.
+   2. Scikit-learn : This python library is used for feature extration from the dataset(Manual_dataset.csv).
+   3. Mathplotlib or seaborn : This python library just for pictorial representation of the values gained. As the output of this software are numerical 
+                               values (i.e. Accuracy percentage, Precision, f1 score) this python library helps in better understanding.
