@@ -8,4 +8,4 @@ The project entitled “Insider threat detection using supervised machine learni
 
  So techically, the implementation of this detection software is done completely using python programming language. In this program we have used different python libraries like pandas, scikit -learn, matplotlib 
  or seaborn. In this software we have used a dataset to train our ml model so that it helps in detection of threat. The dataset that we have used is prepared using various ai tools. Each library mentioned above has
- its own specification which contributes in overall working of the software. 
+ its own specification which contributes in overall working of the software. Use of each library is mentioned 
