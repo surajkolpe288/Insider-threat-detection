@@ -1,4 +1,4 @@
-The project entitled “Insider threat detection using supervised machine learning” is a group project done by four members including myself in our 6th semester of our B. tech degree. 
+The project entitled “Insider threat detection using supervised machine learning on email dataset” is a group project done by four members including myself in our 6th semester of our B. tech degree. 
 
  Insider threats present a grave concern for organizations as individuals with authorized access can exploit privileges for malicious intent. Detecting such threats is challenging due 
  to their familiarity with systems and evasion tactics. This study introduces a supervised machine learning method for detection, leveraging diverse data sources like user logs and network traffic. 
