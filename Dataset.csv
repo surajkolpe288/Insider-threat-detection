@@ -1,0 +1,27 @@
+id,Sender ,Recipient,Subject,Body,Label
+,,,,,
+1,security@bank.com,user@example.com,Account Verification Required (Received),"Dear User, Your account security has been compromised. Please click the following link to verify your account and prevent unauthorized access.",1
+2,support@company.com,user@example.com,Invoice Attached,"Dear Customer, Please find attached the invoice for your recent purchase. Kindly review and let us know if everything is in order.",1
+3,notification@prizewinner.com,user@example.com,"Congratulations! You've Won $1,000,000","Dear Winner, Congratulations! You've won $1,000,000! To claim your prize, please reply with your full name, address, and a scan of your ID.",1
+4,shipping@delivery.com,user@example.com,Parcel Delivery Notification,"Hello, Your parcel is scheduled for delivery today. Please find attached the delivery notification for tracking details.",1
+5,security@bank.com,user@example.com,Account Lockout Notification,"Attention User, Your account has been locked due to suspicious activity. Please log in to verify your identity and unlock your account.",1
+6,security@company.com,user@example.com,Virus Detected in Attachment,"Hello User, We've detected a virus in the attachment you received. Do not open the attachment and delete the email immediately.",1
+7,newsletter@shopping.com,user@example.com,Exclusive Sale: 50% Off All Products!,"Hi Customer, Don't miss out on our exclusive sale! For a limited time only, enjoy 50% off all products when you use the code SPECIAL50 at checkout.",1
+8,ceo@company.com,user@example.com,Urgent: Funds Transfer Request,"Hi Employee Name], I'm in a meeting and need your help. Can you quickly transfer $10,000 to this account [fake bank account]? It's for a confidential project.",1
+9,support@bank.com,user@example.com,Unusual Login Attempt Detected,"Attention Customer, Our system has detected an unusual login attempt on your account. If this was not you, please log in immediately to review your recent transactions and secure your account.",1
+10,security@company.com,user@example.com,Ransomware Alert,"Attention User, Your files have been encrypted by ransomware. Pay $1000 in Bitcoin to the following address to decrypt your files",1
+11,phishing@fake.com,user@example.com,Your Account is Suspended,"Dear Customer, Your account has been suspended due to suspicious activity. Please click the link below to verify your identity and reactivate your account.",1
+12,ceo@company.com,user@example.com,Meeting Invitation,"Urgent Response Required,Hi [Employee Name], You're invited to an urgent meeting tomorrow at 10 AM. Please confirm your attendance by replying to this email.",1
+13,security@bank.com,security@bank.com,Suspicious Activity Detected on Your Account,"Dear User, We've detected suspicious activity on your account. Please log in to review your recent transactions and secure your account.,",1
+14,support@company.com,user@example.com,Action Required: Update Your Account Information,"Hello User, Our records indicate that your account information is outdated. Please log in to update your information and avoid account suspension.",1
+15,ceo@company.com,user@example.com,Urgent: Change in Payment Details,"Hi [Employee Name], Due to a change in payment processing, please use the new bank account details provided in the attached document for all future transactions.,",1
+16,newsletter@marketing.com,user@example.com,"Exclusive Offer: Limited Time Only!,","Dear Subscriber, Take advantage of our exclusive offer! Get 30% off your next purchase when you use the code SPECIAL30 at checkout. Don't miss out!",1
+17,support@bank.com,user@example.com,Unusual Login Attempt Detected,"Attention Customer, Our system has detected an unusual login attempt on your account. If this was not you, please log in immediately to review your recent transactions and secure your account.",1
+18 ceo@company.com,user@example.com ,"                                 ""Your account has been compromised. Click here to reset your password.""",,,
+"                                                                    ""Congratulations! You've won a free vacation.""",,,,,
+"                                                                   ""Meeting reminder: Tomorrow at 10 AM.""",,,,,
+"                                                                    ""URGENT: Your attention is required.""",,,,,
+"                                                                    ""Hi"," how are you doing?""",,,,
+"                                                                    ""Paid holidays", sick leave," and vacation time Find out more about our operations and activities.""",,,
+                                                                    '''Attention User," Your files have been encrypted by ransomware. Pay ""$1000"" in Bitcoin to the following address to decrypt your files'''",,,,
+"                                                                   ""if your Want to be involved with a project login to an account with user name 'dinesh_hcl_1248' with password '191123@dnk'. You can download the files.",,,,,
